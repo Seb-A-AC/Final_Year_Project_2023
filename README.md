@@ -9,4 +9,5 @@ Not all the data was used in the report, but I felt it would be interested to co
 | File  | Data Source |
 | ------------- | ------------- |
 | [WFHdata_February23.csv.zip](data/WFHdata_February23.csv.zip) | [WFHResearch.com](https://wfhresearch.com/data/) |
+| [hybridworkingreferencetables220523.xlsx](data/hybridworkingreferencetables220523.xlsx) | [ONS "Is Hybrid working here to stay?"](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23)|
 
